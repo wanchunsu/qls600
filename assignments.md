@@ -8,7 +8,7 @@
 	- Student 2
 	- Student 3
 3. [Waskom paper](https://github.com/WagnerLabPapers/Waskom_JNeurosci_2014)
-	- Student 1
+	- Student 1 Julian Willett
 	- Student 2
 	- Student 3
 4. [simple 1](https://f1000research.com/articles/6-124/v2)
