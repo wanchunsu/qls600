@@ -1,7 +1,7 @@
 
 1. [Reproducibility Project: Psychology](https://osf.io/ytpuq/wiki/home/)
 	- Ting-Yi
-	- Student 2
+	- Wan-Chun
 	- Student 3
 2. [datalad paper](http://handbook.datalad.org/en/latest/usecases/reproducible_neuroimaging_analysis.html)
 	- Student 1 Mariana Carmona Baez
